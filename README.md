@@ -28,7 +28,7 @@ What is the punishment for theft?
 Installation:
 
 Clone the repository:
-git clone https://github.com/your-username/legal-chatbot-tinyllama.git
+git clone https://github.com/Charan007DC/legal-chatbot-tinyllama.git
 
 Navigate to the project folder:
 cd legal-chatbot-tinyllama
